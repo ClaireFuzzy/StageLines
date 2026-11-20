@@ -1,8 +1,8 @@
-# Text Scroller 🎭
+# StageLines 🎭
 
-A simple subtitle paging tool built for our high school production of *Les Misérables*.
+A lightweight Python subtitle tool with mouse-wheel paging, built for our high school production of *Les Misérables*.
 
-Text Scroller lets a subtitle operator follow the performers' pace by manually advancing lyrics or dialogue with the mouse wheel. Built with Python and Tkinter, it displays centered white text on a black background for rehearsals and stage projection.
+StageLines lets a subtitle operator follow the performers' pace by manually advancing lyrics or dialogue with the mouse wheel. Built with Python and Tkinter, it displays centered white text on a black background for rehearsals and stage projection.
 
 ## Behind the Project
 
